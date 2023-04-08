@@ -23,7 +23,7 @@ The following endpoints are available for the Breed model:
 ### Screenshots
 This is the default view for this api.
 ![image](https://user-images.githubusercontent.com/57610730/230737595-343da781-fddb-4a83-a7a4-88ed6a149c02.png)
-Those are some interesting dog veriants. Contact me if you need one.
+Those are some interesting dog variants. Contact me if you need one.
 ![image](https://user-images.githubusercontent.com/57610730/230737655-94c37eea-ddd2-47d1-95f7-2b1893895f27.png)
 
 
