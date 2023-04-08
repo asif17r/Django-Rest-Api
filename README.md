@@ -6,7 +6,8 @@ This is a RESTful API for managing dog and breed data. Users can create, read, u
 git clone https://github.com/asif17r/Django-Rest-Api
 cd Django-Rest-Api
 pip install -r requirements.txt
-python manage.py runserver ```
+python manage.py runserver 
+```
 
 ## Dog Endpoints
 The following endpoints are available for the Dog model:
