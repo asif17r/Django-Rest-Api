@@ -1,7 +1,7 @@
 # Dog API
 This is a RESTful API for managing dog and breed data. Users can create, read, update, and delete dog and breed records using HTTP requests.
 
-### Dog Endpoints
+## Dog Endpoints
 The following endpoints are available for the Dog model:
 ```
 - GET /api/dogs/: Get a list of all dogs
@@ -10,7 +10,7 @@ The following endpoints are available for the Dog model:
 - PUT /api/dogs/<id>/: Update a specific dog
 - DELETE /api/dogs/<id>/: Delete a specific dog
 ```
-### Breed Endpoints
+## Breed Endpoints
 The following endpoints are available for the Breed model:
 ```
 - GET /api/breeds/: Get a list of all breeds
@@ -20,7 +20,7 @@ The following endpoints are available for the Breed model:
 - DELETE /api/breeds/<id>/: Delete a specific breed
 ```
 
-### Screenshots
+## Screenshots
 This is the default view for this api.
 ![image](https://user-images.githubusercontent.com/57610730/230737595-343da781-fddb-4a83-a7a4-88ed6a149c02.png)
 Those are some interesting dog variants. Contact me if you need one.
@@ -28,5 +28,5 @@ Those are some interesting dog variants. Contact me if you need one.
 
 
 
-### Contributions
+## Contributions
 Contributions to this project are welcome! To contribute, please fork the repository and submit a pull request with your changes. Please include tests for any new functionality you add.
